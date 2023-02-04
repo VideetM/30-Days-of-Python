@@ -4,6 +4,6 @@
 
 * ✅ Creating Reading and Downloading Files.
 * ✅ OOPS concepts like abstraction, encapsulation, inheritance and polymorphism
-* ✅ Using Rest API service.
+* ✅ Using Rest API and Spotify API service.
 * ✅ Python Databases via SQL & SQLAlchemy
 * ✅ Scraping Stackoverflow using various python libraries such as pandas, requests, selenium, etc.
